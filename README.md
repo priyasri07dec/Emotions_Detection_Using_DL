@@ -8,7 +8,11 @@ This project is an end-to-end Emotion Detection application built using **Distil
 
 ## Web Page
 
-![App_page]()
+![App_page](web_page.png)
+
+![App_page](web_page_result1.png)
+
+![App_page](web_page_result2.png)
 
 ## 🚀 Features
 
@@ -85,53 +89,6 @@ Emotion-Detection-Using-DistilBERT/
 └── web_page_result2.png
 ```
 
----
-
-## 📸 Application Screenshots
-
-### Home Page
-
-![Home Page](web_page.png)
-
----
-
-### Prediction Example 1
-
-![Prediction](web_page_result1.png)
-
----
-
-### Prediction Example 2
-
-![Prediction](web_page_result2.png)
-
----
-
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your_username/Emotion-Detection-Using-DistilBERT.git
-```
-
-Navigate to the project folder
-
-```bash
-cd Emotion-Detection-Using-DistilBERT
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
 
 ---
 
@@ -212,16 +169,6 @@ Visualization using Streamlit
 
 ---
 
-## 👩‍💻 Author
 
-**Priya Srivastava**
-
-Aspiring Data Scientist | Machine Learning | NLP | Generative AI
-
-GitHub: https://github.com/your_username
-
-LinkedIn: https://linkedin.com/in/your_profile
-
----
 
 ## ⭐ If you found this project useful, consider giving it a Star!
