@@ -130,31 +130,6 @@ I love spending time with my parents.
 I can't believe I won the competition.
 ```
 
----
-
-## 📈 Workflow
-
-```
-User Input
-      │
-      ▼
-Text Preprocessing
-      │
-      ▼
-DistilBERT Tokenizer
-      │
-      ▼
-Fine-tuned DistilBERT Model
-      │
-      ▼
-Emotion Prediction
-      │
-      ▼
-Confidence Score
-      │
-      ▼
-Visualization using Streamlit
-```
 
 ---
 
